@@ -1,2 +1,0 @@
-# Intellij-Setting
-Intellij Setting
