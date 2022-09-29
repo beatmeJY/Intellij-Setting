@@ -4,56 +4,15 @@
       <map>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
-        <entry key="com.chrisrm.idea.MaterialThemeUI">
+        <entry key="com.intellij.ko">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.haulmont.jpab">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
-                  <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.properties" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.mallowigi.idea">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="de.netnexus.camelcaseplugin">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>

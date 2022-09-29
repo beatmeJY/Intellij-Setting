@@ -1,9 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="search pdf url" />
-      <item value="iif rcs request map information history del day" />
-      <item value="f" />
+      <item value="Exhaustive retrieval of merged annotations..." />
+      <item value="Shortcut: directly present on the element, with no merging needed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -13,11 +12,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664190631307" />
+    <option name="lastTrimTime" value="1664364456395" />
   </component>
   <component name="Settings">
-    <option name="phoneticFontFamily" value="D2Coding" />
-    <option name="primaryFontFamily" value="D2Coding" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
