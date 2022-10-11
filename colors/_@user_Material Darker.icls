@@ -4,19 +4,12 @@
     <property name="created">2022-09-29T14:50:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.4.0.0</property>
-    <property name="modified">2022-10-11T19:04:54</property>
+    <property name="modified">2022-10-09T15:56:22</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="D2Coding" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="D2Coding" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -485,7 +478,6 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
         <option name="EFFECT_COLOR" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1308,7 +1300,6 @@
     <option name="JAVA.MODIFIER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA.THIS_SUPER">
@@ -1321,6 +1312,11 @@
       <value>
         <option name="FOREGROUND" value="91e854" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
