@@ -1,0 +1,38 @@
+<templateSet group="Java">
+  <template name="ifcn" value="if (CollectionUtils.isNotEmpty($VAR$)) {&#10;    $END$&#10;}" description="if (CollectionUtils.isNotEmpty(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifc" value="if (CollectionUtils.isEmpty($VAR$)) {&#10;    $END$&#10;}" description="if (CollectionUtils.isEmpty(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifsn" value="if (StringUtils.isNotEmpty($VAR$)) {&#10;    $END$&#10;}" description="if (StringUtils.isNotEmpty(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifs" value="if (StringUtils.isEmpty($VAR$)) {&#10;    $END$&#10;}" description="if (StringUtils.isEmpty(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifo" value="if (ObjectUtils.isEmpty($VAR$)) {&#10;    $END$&#10;}" description="if (ObjectUtils.isEmpty(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifon" value="if (ObjectUtils.isNotEmpty($VAR$)) {&#10;    $END$&#10;}" description="if (ObjectUtils.isNotEmpty(&quot;&quot;))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
