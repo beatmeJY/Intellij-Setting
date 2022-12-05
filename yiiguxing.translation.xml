@@ -1,0 +1,23 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="account" />
+      <item value="standby" />
+      <item value="apply" />
+      <item value="Exhaustive retrieval of merged annotations..." />
+      <item value="Shortcut: directly present on the element, with no merging needed" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="5" />
+        <entry key="KOREAN" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669720340501" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

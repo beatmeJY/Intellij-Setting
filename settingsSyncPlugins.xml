@@ -2,9 +2,20 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
-        <entry key="SVN Disconnect">
+        <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.ko">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
       </map>
