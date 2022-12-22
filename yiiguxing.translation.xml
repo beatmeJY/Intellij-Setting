@@ -23,4 +23,19 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1671673932163" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="KOREAN" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread." />
+      <item value="he Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="3" />
+        <entry key="KOREAN" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
