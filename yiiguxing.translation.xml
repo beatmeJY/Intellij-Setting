@@ -29,6 +29,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="gender" />
       <item value="appleservice" />
       <item value="Interface Test Service" />
       <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread." />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="KOREAN" value="6" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="KOREAN" value="7" />
       </map>
     </option>
   </component>
