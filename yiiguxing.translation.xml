@@ -29,6 +29,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="address" />
       <item value="gender" />
       <item value="appleservice" />
       <item value="Interface Test Service" />
@@ -37,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="KOREAN" value="7" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="KOREAN" value="8" />
       </map>
     </option>
   </component>
